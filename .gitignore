@@ -1,18 +1,9 @@
-# Bytecode & cache
 __pycache__/
 *.pyc
-
-# Local uploads (user files, encrypted)
 uploads/
-
-# Encryption keys
 keys/
-
-# Secrets & configs
 credentials.json
 .env
-
-
-# VS Code / IDE settings (optional)
+.streamlit/config.toml
 .vscode/
 .idea/
